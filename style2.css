@@ -16,3 +16,12 @@ font-size: 3em;
 color: darkgoldenrod;
 
 }
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+img{
+    height: 600px;
+}
