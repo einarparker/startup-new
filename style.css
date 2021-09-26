@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: "Montserrat", sans-serif;
-  background: url(header.jpg) no-repeat center center fixed;
+  background: url(header4.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -11,13 +11,13 @@ html {
 }
 
 h1 {
-  font-size: 3rem;
-  color: rgb(245, 233, 228);
+  font-size: 4rem;
+  color: rgb(255, 255, 255);
 }
 
 hr {
   max-width: 65px;
-  border-color: rgb(255, 160, 234);
+  border-color: rgb(253, 186, 1);
   border-width: 3px;
 }
 
@@ -28,8 +28,8 @@ hr {
 }
 
 .btn-primary {
-  background-color: rgb(103, 199, 255);
-  border-color: rgb(103, 199, 255);
+  background-color: rgb(255, 124, 1);
+  border-color: rgb(255, 124, 1);;
 }
 .btn-primary:hover {
   background-color: rgb(99, 162, 192);
@@ -42,8 +42,12 @@ hr {
 }
 
 .buffer {
-  height: 25rem;
+  height: 10rem;
 }
 .navbar-brand {
   color: aliceblue;
+}
+
+.navbar-brand:hover{
+  color: rgb(207, 79, 19);
 }
